@@ -10,7 +10,7 @@ Ce cours d'introduction vous accompagne dans l'apprentissage des technologies fo
 
 **Public cible** : Étudiants débutants en développement web et mobile, sans connaissance préalable requise.
 
-**Durée estimée** : 20-25 heures (5-6h par module)
+
 
 ---
 
